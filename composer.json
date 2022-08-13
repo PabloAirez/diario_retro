@@ -1,0 +1,15 @@
+{
+    "name": "pabloairez/diario-retro",
+    "description": "aplicacao web de  com musica lofi aconchegante",
+    "autoload": {
+        "psr-4": {
+            "Pabloairez\\DiarioRetro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Santos"
+        }
+    ],
+    "require": {}
+}
